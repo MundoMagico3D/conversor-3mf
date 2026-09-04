@@ -82,7 +82,13 @@ O programa é gratuito para baixar e usar, com **3 conversões por dia durante 5
 dias**. O prazo só começa na primeira conversão.
 
 A licença definitiva tira o limite diário e libera o relatório detalhado das
-correções. Ela é vendida pela [Mundo Mágico 3D](https://www.mundomagico3d.com.br).
+correções — pagamento único, com 12 meses de atualizações incluídos.
+
+**[Comprar a licença](https://mundomagico3d.com.br/produtos/conversor-3mf-licenca-de-uso-mundo-magico-3d-9d3jd/)**
+
+Antes de finalizar a compra, abra o programa, clique em **Licença** e depois em
+**Copiar código**. Cole esse código no campo da página do produto — a licença
+chega no seu e-mail automaticamente.
 
 ## Perguntas frequentes
 
